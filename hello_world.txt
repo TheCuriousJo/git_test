@@ -1,1 +1,2 @@
 This is just an innocent test of Git and GitHub.
+This will be the text added in my second branch, which will be the main at the end.
